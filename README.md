@@ -1,4 +1,4 @@
-### Hi there 👋
+### Drayton Benjamin
 
 <!--
 **DraytonBenjamin/DraytonBenjamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a senior student at Erskine College and also play on their men's basketball team. I have been 
+involved in classes surrounding coding and computers since my freshman year of High School and still have lots to learn but look foward to doing so and gaining as much knowledge as I can.
+
+I am intersted in coding because I have always liked the idea of technology and to see how coding ties into what products we use on an everyday basis is fascinating to see. When in high school I was more intersted in becoming something like a video game developer but as time went on I like to make websites but really overall I just like coding and other Computer Science and IT related things.
